@@ -1,0 +1,11 @@
+{
+    "service" :{
+        "port":10000
+    },
+    "db":{
+        "host": "kancelariskazabava.wpsiz.mongodb.net",
+        "username":"Tome",
+        "password":"Kavadarci1",
+        "dbname":"G19"
+    }
+}
